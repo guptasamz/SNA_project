@@ -1,0 +1,2 @@
+The precision, recall and f1-score are: 0.5748110027036621, 0.4263707283178574 and 0.4786838005342671
+Custom Accuracy Metric: 0.7655568978586318
