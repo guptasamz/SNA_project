@@ -8,6 +8,8 @@ The dataset for this project is confidential and cannot be provided as part of p
 1. Install Python 3.10 (Requires python 3.10 for Ray hyperparameter search)
 2. `pip install -r requirements.txt`
 
+Note: The requirements.txt might not work for generating the graphs (i.e. files inside SNA_create_graph folder). We have included an alternate requirements file (requirements_create_graph.txt)
+
 ## Code instructions
 The code for each model created are stored in separate folders and the structure for the same is below, with a short description for each folder and file.
 ```
